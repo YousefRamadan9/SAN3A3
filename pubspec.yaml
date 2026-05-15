@@ -58,19 +58,11 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-
-  # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/p7.jpg
-    - assets/p8.jpg
-    - assets/p3.jpg
-    - assets/p4.jpg
-    - assets/p6.jpg
-    - assets/p9.jpg
-    - assets/p10.jpg
-    - assets/p11.jpg
-    - assets/p12.jpg
-    - assets/FB_IMG_1741163752389.png
+    - assets/
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - assets/my_image.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

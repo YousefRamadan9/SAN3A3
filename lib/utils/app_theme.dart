@@ -1,0 +1,8 @@
+import 'package:flutter/material.dart';
+
+final ThemeData appTheme = ThemeData(
+  primarySwatch: Colors.blue,
+  useMaterial3: true,
+  fontFamily: 'Arial',
+  scaffoldBackgroundColor: Colors.grey[50],
+);
